@@ -1,0 +1,5 @@
+- 	Hi, please call me Koin
+-   I’m interested in programming and logic (mostly computer stuff)
+- 	I'm currently learning web development
+- 	As of now I'm an amateur
+- 	Fun fact: I'm not English
